@@ -6,6 +6,8 @@ local function serve()
     vim.cmd(cmd)
 end
 
+vim.cmd [[ command! LiveServer lua require"nvim-liveserver".serve() ]]
+
 return {
     serve = serve
 }
