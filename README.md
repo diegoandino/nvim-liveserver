@@ -3,6 +3,9 @@
 # nvim-liveserver
 A simple Lua 'live-server' plugin for Neovim for ease of development.
 
+# Pre-Requirements
+You need to have npm's live-server installed: `npm i -g live-server`
+
 # Install Using Packer
 1. In your `packer.lua` add `diegoandino/nvim-liveserver`
 2. Run `:PackerSync`
