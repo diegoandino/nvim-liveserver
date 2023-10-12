@@ -1,3 +1,5 @@
+![nvim-liveserver](live-server.png)
+
 # nvim-liveserver
 A simple Lua 'live-server' plugin for Neovim for ease of development.
 
